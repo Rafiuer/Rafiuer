@@ -5,7 +5,7 @@
 Hello! I'm Rafiur Rahman, IT Security Professional & Have Rich Experience in Ethical Hacking & Web Penetration Testing.
 
 Skills:
--	💻 Python3 / C / C++ / Webcoding(HTML,CSS,Java Script ,PHP, MySQL)
+-	💻 Python / C# / Webcoding(HTML,CSS,Java Script ,PHP, MySQL)
 -	💥 Linux OS / Windows OS / Kali OS
 -	💪 Cryptography / Steganography / Digital Forensics / Web-Pentesting / Reverse-Engineering / OSINT
 -	💀 Ethical Hacking / Web-pentesting / Basic Networking

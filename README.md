@@ -1,8 +1,8 @@
 ## K.M Rafiur Rahman
 ##### Software Developer | Threat Hunting | Vulnerability Assessment | Malware Analysis 
-![Software Developer | Threat Hunting | Vulnerability Assessment | Malware Analysis ]
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Hello! I'm Rafiur Rahman, IT Security Professional & Have Rich Experience in Ethical Hacking & Web Penetration Testing.
 
 Skills:
 -	💻 Python3 / C / C++ / Webcoding(HTML,CSS,Java Script ,PHP, MySQL)
